@@ -19,7 +19,7 @@ I code a neural network from scratch and train it on historical data. Finally I 
 
 ## How to use
 
-To take a look at the results, just click on `bike_rentals.ipynb` and it should open automatically. To take a look at the model, go to the `NeuralNetwork.py`.
+To take a look at the results, just click on `bike_rentals.ipynb` and it should open automatically. To take a look at the model, go to the `neural_network.py`.
 
 Alternatively you can download the repository and see the report file `bike_rentals.html`.
 
