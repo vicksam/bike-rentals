@@ -29,4 +29,4 @@ I use the dataset from [UCI ML repository](https://archive.ics.uci.edu/ml/datase
 
 #### Size
 
-There are 731 records (each one for each day) and 16 features.
+There are 17379 records (hour by hour) and 16 features.
