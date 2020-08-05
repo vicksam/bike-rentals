@@ -19,13 +19,13 @@ I code a neural network from scratch and train it on historical data. Finally I 
 
 ## How to use
 
-To take a look at the results, just click on `bike-rentals.ipynb` and it should open automatically. To take a look at the model, go to the `NeuralNetwork.py`.`
+To take a look at the results, just click on `bike_rentals.ipynb` and it should open automatically. To take a look at the model, go to the `NeuralNetwork.py`.
 
-Alternatively you can download the repository and see the report file `bike-rentals.html`.
+Alternatively you can download the repository and see the report file `bike_rentals.html`.
 
 ## Dataset
 
-I use the dataset from [UCI ML repository](https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset). It contains records from 2011-2012 collected by the bike-share company in Washington D.C.
+I use the dataset from [UCI ML repository](https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset). It contains records from 2011-2012 collected by the bike-sharing company in Washington D.C.
 
 #### Size
 
