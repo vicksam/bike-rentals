@@ -1,6 +1,6 @@
 # Predicting Bike Rentals
 
-Bike-sharing company wants to know how many bikes it needs because if there are too few or too many it loses money. I help the company by predicting the number of rides on a given day.
+Bike-sharing company wants to know how many bikes it needs to keep. I help the company by predicting the number of rides on a given day.
 
 ### Overview
 
